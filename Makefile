@@ -2,6 +2,7 @@
 
 # caution: testing won't work on windows, see README
 
+# adepu 
 PYTHON ?= python
 CYTHON ?= cython
 PYTEST ?= pytest
